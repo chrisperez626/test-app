@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Name from './components/Name';
 
 function App() {
