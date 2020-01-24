@@ -1,14 +1,14 @@
 import React from 'react';
-import Name from './components/Name';
+import { Route, Router } from 'react-router'
+// import BlockSection from './components/BlockSection';
 
 function App() {
-  return (
-    <div className="App">
-      <Name></Name>
-      <header className="App-header">
-        
-      </header>
-    </div>
+  return(
+    // <Router>
+      <div>
+        yo
+      </div>
+    // </Router>
   );
 }
 
